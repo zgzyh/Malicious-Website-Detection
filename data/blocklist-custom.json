@@ -1,0 +1,5 @@
+{
+  "schema": 1,
+  "description": "用户手动维护的黑名单 — CI 自动更新不会覆盖此文件",
+  "entries": []
+}
