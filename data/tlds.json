@@ -1,0 +1,6 @@
+{
+  "schema": 1,
+  "highRiskTlds": ["zip", "mov", "top", "xyz", "gq", "tk", "ml", "cf", "ga"],
+  "flagPunycode": true,
+  "maxLevenshtein": 2
+}

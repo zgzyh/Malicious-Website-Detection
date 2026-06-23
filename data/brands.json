@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "brands": [
+    { "name": "PayPal", "domains": ["paypal.com"], "keywords": ["paypal"] },
+    { "name": "微信支付", "domains": ["weixin.qq.com", "wechatpay.cn"], "keywords": ["weixin", "wechat"] },
+    { "name": "支付宝", "domains": ["alipay.com"], "keywords": ["alipay"] },
+    { "name": "Apple", "domains": ["apple.com", "icloud.com"], "keywords": ["apple", "icloud"] },
+    { "name": "淘宝", "domains": ["taobao.com"], "keywords": ["taobao"] }
+  ]
+}
