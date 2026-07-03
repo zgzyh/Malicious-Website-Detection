@@ -1,24 +1,24 @@
 {
   "schema": 1,
-  "generatedAt": "2026-07-03T07:34:27.973Z",
+  "generatedAt": "2026-07-03T10:49:02.456Z",
   "files": {
     "blocklist-custom.json": {
-      "version": "2026-07-03.07:34",
+      "version": "2026-07-03.10:49",
       "sha256": "2a6c68dd6f91cfe99496251b8e79772ba9e49a47d4385606d3178e34f30d97f8",
       "bytes": 127
     },
     "blocklist.json": {
-      "version": "2026-07-03.07:34",
-      "sha256": "2e74d6c9cc4fea25717a2d5297b2171add24a174c8cb4df9337d4bc6f83a095a",
-      "bytes": 2593807
+      "version": "2026-07-03.10:49",
+      "sha256": "f53f77e90424df761513b8998313025bb793bc6f187e8a39be37f5ba78840858",
+      "bytes": 2595547
     },
     "brands.json": {
-      "version": "2026-07-03.07:34",
+      "version": "2026-07-03.10:49",
       "sha256": "135ec260636f068aa74d0dedb55f64f2e809378cfe9ac118ef3dfcb4d1c3b42e",
       "bytes": 480
     },
     "tlds.json": {
-      "version": "2026-07-03.07:34",
+      "version": "2026-07-03.10:49",
       "sha256": "75cce0a186a86d8c599257a3a3d0cfc2af34b35b1f76e91af6681c77e42eb36d",
       "bytes": 143
     }
